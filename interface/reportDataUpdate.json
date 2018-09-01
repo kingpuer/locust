@@ -1,0 +1,65 @@
+{
+  "vin": "LFWSRXNH0AAD70647",
+  "tboxTime": 1533200390000,
+  "compositeBrakingDistance": 10,
+  "assistBrakingDistance": 0,
+  "brakingDistance": 0,
+  "fuelConsumption": 1000,
+  "lampDataCount": 0,
+  "lampDataList": [
+    {
+      "closeCount": 0,
+      "lampId": 0,
+      "openCount": 0,
+      "utilityTime": "string"
+    }
+  ],
+  "maxRpm": 0,
+  "maxSpeed": 0,
+  "rearviewMirrorCount": 0,
+  "rearviewMirrorDataList": [
+    {
+      "closeCount": 0,
+      "openCount": 0,
+      "rearviewMirrorId": 0,
+      "utilityTime": "string"
+    }
+  ],
+  "singleSwitchDataList": [
+    {
+      "switchCount": "string",
+      "switchId": 0
+    }
+  ],
+  "speedAndRpmCount": 0,
+  "speedAndRpmList": [
+    {
+      "count": 100,
+      "speedAndRpmId": 0,
+      "speedId": 1
+    },
+    {
+      "count": 100,
+      "speedAndRpmId": 2,
+      "speedId": 2
+    },
+    {
+      "count": 100,
+      "speedAndRpmId": 3,
+      "speedId": 3
+    }
+  ],
+  "switchCount": 0,
+  "tboxId": "string",
+  "throttleOpenCount": 100,
+  "throttleOpenList": [
+    {
+      "count": 100,
+      "id": 3
+    },
+    {
+      "count": 1000,
+      "id": 3
+    }
+  ]
+}
