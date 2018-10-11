@@ -1,7 +1,7 @@
 {
   "IP": "http://114.115.185.200:8005/",
   "realTimeUploadData":"tsp/continental-gateway/continental-gateway/realTimeUploadData",
-  "eventDataUpdate":"",
-  "":""
+  "eventDataUpdate":"tsp/continental-gateway/continental-gateway/eventDataUpdate",
+  "reportDataUpdate":"/tsp/continental-gateway/continental-gateway/reportDataUpdate"
 
 }

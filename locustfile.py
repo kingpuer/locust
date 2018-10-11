@@ -7,7 +7,7 @@ class WebsiteTasks(TaskSet):
 #初始化函数
     def on_start(self):
         try:
-            with open("D:/locust/interface/reportDataUpdate.json", "r") as f:
+            with open("D:/workspace/python/locusttest/interface/reportDataUpdate.json", "r") as f:
                 self.request_json = json.load(f)
         except (IOError):
             print ("open interface json file fail!!!")
